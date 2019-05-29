@@ -9,7 +9,7 @@ Lista de Comandos no shell:
 
 ** GIT ONLINE **
 - Para clonar o repositório:
-git clone link-repositório
+git clone https://github.com/Toco020/SO.git
 
 - Para atualizar o repositório local de acordo com o online:
 git pull
