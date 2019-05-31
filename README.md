@@ -12,7 +12,7 @@ Lista de Comandos no shell:
 git clone https://github.com/Toco020/SO.git
 
 - Para atualizar o repositório local de acordo com o online:
-git pull
+git pull nome-branch
 
 - Para subir o master local para a branch online:
 git push -u branch-remota branch-local
@@ -29,11 +29,11 @@ git checkout -b nome-branch
 
 ** JAVA **
 - Para abrir um arquivo .java direto no netbeans:
-start netbeans nome-arquivo.java
+netbeans nome-arquivo.java
 
 - Para abrir todos os arquivos da pasta dos Códigos:
-start netbeans nome-da-pasta
+netbeans nome-da-pasta
 
 - Para abrir o pacote completo dos Códigos:
-start netbeans nome-da-pasta-raiz
+netbeans nome-da-pasta-raiz
 
